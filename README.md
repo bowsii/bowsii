@@ -1,212 +1,173 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Bowsickdharan&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20%7C%20Machine%20Learning%20Student%20%7C%20Aspiring%20AI%20Engineer&descAlignY=62&descSize=16"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=250&text=Bowsickdharan&fontSize=55&color=0:8871e5,100:b678c4&stroke=b678c4"/>
 </p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=850&lines=Machine+Learning+Student;Building+AI-Powered+Applications;Exploring+LLMs,+RAG+and+Agentic+AI;Always+Learning+and+Innovating"/>
-</p>
-
-<h1 align="center">Hi 👋, I'm Bowsickdharan</h1>
 
 <h3 align="center">
-B.Tech Artificial Intelligence & Machine Learning Student | AI Enthusiast | Aspiring Machine Learning Engineer
+Artificial Intelligence & Machine Learning Student
 </h3>
 
 <p align="center">
-Passionate about building intelligent applications and solving real-world problems through Artificial Intelligence and Machine Learning. I enjoy developing AI-powered solutions, experimenting with Large Language Models, Retrieval-Augmented Generation systems, and creating applications that bridge research and real-world impact.
+Building intelligent systems, exploring Generative AI, and transforming ideas into impactful applications.
 </p>
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<p align="center">
+  <a href="mailto:bowsickdharan@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/bowsii">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+  </a>
+</p>
 
-```python
-class Bowsickdharan:
+---
 
-    def __init__(self):
-        self.name = "Bowsickdharan"
-        self.location = "Coimbatore, Tamil Nadu"
-        self.education = "B.Tech Artificial Intelligence and Machine Learning"
-        self.college = "Sri Shakthi Institute of Engineering and Technology"
-        self.year = "3rd Year"
-        self.cgpa = "8.14"
+## Profile
 
-        self.languages = [
-            "Python",
-            "Java",
-            "C",
-            "SQL"
-        ]
+```yaml
+Name: Bowsickdharan
+Location: Coimbatore, Tamil Nadu
+Education: B.Tech Artificial Intelligence & Machine Learning
+Institution: Sri Shakthi Institute of Engineering and Technology
+Year: Third Year
+CGPA: 8.14
 
-        self.ai_stack = [
-            "TensorFlow",
-            "OpenCV",
-            "MediaPipe",
-            "LangChain",
-            "LangGraph",
-            "NumPy",
-            "Pandas",
-            "Matplotlib"
-        ]
+Focus Areas:
+  - Machine Learning
+  - Generative AI
+  - Retrieval-Augmented Generation
+  - Computer Vision
+  - Natural Language Processing
 
-        self.projects = [
-            "Voice Assistant",
-            "Multilingual Study Assistant",
-            "RAG Architecture"
-        ]
-
-        self.currently_learning = [
-            "Generative AI",
-            "Large Language Models",
-            "Agentic AI",
-            "MLOps",
-            "Advanced RAG Systems"
-        ]
-
-    def motto(self):
-        return "Build. Learn. Improve. Repeat."
+Current Goal:
+  Building production-ready AI applications
 ```
 
 ---
 
-## About Me
+## Tech Ecosystem
 
-* Currently working on Artificial Intelligence, Machine Learning, Deep Learning, and Generative AI projects.
-* Exploring Retrieval-Augmented Generation (RAG), Agentic AI, LangChain, and LangGraph.
-* Interested in NLP, Computer Vision, Intelligent Assistants, and AI-powered Applications.
-* Looking to collaborate on Open Source AI projects and innovative software solutions.
-* Always eager to learn new technologies and solve real-world problems using AI.
-* Goal: Become a skilled AI Engineer and contribute to impactful AI solutions.
-
----
-
-## Connect With Me
+### Languages
 
 <p align="left">
-<a href="mailto:bowsickdharan@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/bowsii">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<img src="https://skillicons.dev/icons?i=python,java,c" />
 </p>
 
----
+### Artificial Intelligence & Data Science
 
-# 💻 Tech Stack
+<p align="left">
+<img src="https://skillicons.dev/icons?i=tensorflow" />
+</p>
 
-### Programming Languages
+<p align="left">
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/MediaPipe-4285F4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+</p>
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge\&logo=c\&logoColor=white)
-![SQL](https://img.shields.io/badge/sql-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+### Generative AI Stack
 
-### Artificial Intelligence & Machine Learning
+<p align="left">
+<img src="https://img.shields.io/badge/LangChain-0FA958?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangGraph-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-FF6B6B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LLMs-6A5ACD?style=for-the-badge"/>
+</p>
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge\&logo=TensorFlow\&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-%235C3EE8.svg?style=for-the-badge\&logo=opencv\&logoColor=white)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-4285F4?style=for-the-badge)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge\&logo=numpy\&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge\&logo=pandas\&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge\&logo=Matplotlib\&logoColor=black)
+### Databases
 
-### Generative AI
+<p align="left">
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+</p>
 
-![LangChain](https://img.shields.io/badge/LangChain-121D33?style=for-the-badge)
-![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-FF6B6B?style=for-the-badge)
-![LLMs](https://img.shields.io/badge/LLMs-6A5ACD?style=for-the-badge)
+```text
+MySQL      → Relational Database Design & Queries
+PostgreSQL → Advanced SQL & Data Management
+MongoDB    → NoSQL Document-Oriented Storage
+```
 
-### Databases & Tools
+### Tools
 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge\&logo=mysql\&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge\&logo=github\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
 
 ---
 
 ## Featured Projects
 
-| Project                      | Technologies                    | Description                                                                                                      |
-| ---------------------------- | ------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
-| Voice Assistant              | Python, NLP, Speech Recognition | AI-powered assistant capable of understanding voice commands and automating tasks.                               |
-| Multilingual Study Assistant | Python, LLMs, NLP               | Educational assistant that helps students learn concepts in multiple languages.                                  |
-| RAG Architecture             | LangChain, LangGraph, Python    | Retrieval-Augmented Generation system that retrieves context-aware information and generates accurate responses. |
+### Voice Assistant
+
+AI-powered voice assistant capable of understanding commands, responding intelligently, and automating tasks using speech-based interaction.
+
+**Technology Stack**
+
+`Python` `NLP` `Speech Recognition` `Machine Learning`
 
 ---
 
-## GitHub Statistics
+### Multilingual Study Assistant
 
-<div align="center">
+Educational AI assistant that supports multilingual interaction and helps students learn concepts through intelligent responses.
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=bowsii&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
+**Technology Stack**
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bowsii&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
-
-</div>
+`Python` `LLMs` `NLP` `Generative AI`
 
 ---
 
-## GitHub Streak
+### Retrieval-Augmented Generation (RAG)
 
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=bowsii&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10"/>
-</p>
+Context-aware question-answering system that combines document retrieval and large language models for accurate responses.
 
----
+**Technology Stack**
 
-## Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=bowsii&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"/>
-</p>
+`LangChain` `LangGraph` `Python` `Vector Search`
 
 ---
 
-## Trophy Wall
+## Learning Roadmap
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=bowsii&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4"/>
-</p>
-
----
-
-## Education
-
-| Degree                                            | Institution                                         | Year        | CGPA |
-| ------------------------------------------------- | --------------------------------------------------- | ----------- | ---- |
-| B.Tech Artificial Intelligence & Machine Learning | Sri Shakthi Institute of Engineering and Technology | 2024 - 2028 | 8.14 |
-
----
-
-## Currently Learning
-
-```text
-Generative AI      → Prompt Engineering, LLM Applications
-RAG Systems        → Vector Databases, Retrieval Pipelines
-LangGraph          → Multi-Agent Workflows
-Machine Learning   → Model Optimization
-MLOps              → Model Deployment & Monitoring
+```mermaid
+mindmap
+  root((AI Journey))
+    Machine Learning
+      Supervised Learning
+      Deep Learning
+    Generative AI
+      LLMs
+      Prompt Engineering
+    RAG Systems
+      LangChain
+      LangGraph
+    Computer Vision
+      OpenCV
+      MediaPipe
+    MLOps
+      Deployment
+      Monitoring
 ```
 
 ---
 
-## 2026 Goals
+## Interests
 
-* Build production-ready AI applications
-* Master Retrieval-Augmented Generation (RAG)
-* Learn Agentic AI architectures
-* Contribute to Open Source
-* Improve Data Structures & Algorithms
-* Secure AI/ML Internship Opportunities
+* Artificial Intelligence
+* Machine Learning
+* Computer Vision
+* Generative AI
+* Large Language Models
+* Retrieval-Augmented Generation
+* Intelligent Agents
+* Software Development
 
 ---
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=bowsii&label=Profile%20Views&color=0e75b6&style=flat"/>
-</p>
+## Philosophy
+
+> "Technology becomes meaningful when it transforms ideas into solutions that create real-world impact."
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:8871e5,100:b678c4"/>
 </p>
