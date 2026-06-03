@@ -1,11 +1,212 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Bowsickdharan&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20%7C%20Machine%20Learning%20Student%20%7C%20Aspiring%20AI%20Engineer&descAlignY=62&descSize=16"/>
+</p>
 
-<h1 align="center">Hi 👋, I'm Bowsickdharan</h1><br><br><h3 align="center"><br>Computer Science Student | AI & Machine Learning Enthusiast | Full Stack Developer<br></h3><br><br><p align="center"><br>Passionate about building intelligent applications and solving real-world problems through technology. I enjoy exploring Artificial Intelligence, Machine Learning, Deep Learning, and Full Stack Development while continuously learning new technologies and industry best practices.<br></p><br><br>---<br><br>### 🚀 About Me<br><br>🔭 I’m currently working on Artificial Intelligence, Machine Learning, Deep Learning, and Full Stack Web Development projects.<br><br>🌱 I’m currently learning Generative AI, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), Cloud Computing, and System Design.<br><br>👯 I’m looking to collaborate on Open Source Projects, AI Solutions, and Full Stack Applications.<br><br>🤝 I’m looking for help with MLOps, Model Deployment, and scalable AI architectures.<br><br>💬 Ask me about Python, Java, JavaScript, React, Node.js, Machine Learning, Data Structures & Algorithms, and Software Engineering.<br><br>⚡ Fun fact: Every project teaches something new, and that's what makes coding exciting.<br><br>---<br><br>### 🛠️ Technologies & Tools<br><br>- Programming Languages: Python, Java, JavaScript, C<br>- Frontend: React.js, HTML5, CSS3, Bootstrap<br>- Backend: Node.js, Express.js<br>- Databases: MySQL, MongoDB<br>- AI/ML: Scikit-Learn, TensorFlow, PyTorch, Pandas, NumPy<br>- Tools: Git, GitHub, VS Code, Postman<br>- Concepts: Data Structures & Algorithms, OOP, DBMS, OS, Computer Networks<br><br>---<br><br>### 🎯 Current Goals<br><br>- Build production-ready AI applications<br>- Contribute to open-source projects<br>- Strengthen problem-solving and system design skills<br>- Explore cutting-edge Generative AI technologies<br>- Create impactful software solutions for real-world challenges<br><br>---
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=850&lines=Machine+Learning+Student;Building+AI-Powered+Applications;Exploring+LLMs,+RAG+and+Agentic+AI;Always+Learning+and+Innovating"/>
+</p>
 
+<h1 align="center">Hi 👋, I'm Bowsickdharan</h1>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=bowsii&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+<h3 align="center">
+B.Tech Artificial Intelligence & Machine Learning Student | AI Enthusiast | Aspiring Machine Learning Engineer
+</h3>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+Passionate about building intelligent applications and solving real-world problems through Artificial Intelligence and Machine Learning. I enjoy developing AI-powered solutions, experimenting with Large Language Models, Retrieval-Augmented Generation systems, and creating applications that bridge research and real-world impact.
+</p>
+
+<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+
+```python
+class Bowsickdharan:
+
+    def __init__(self):
+        self.name = "Bowsickdharan"
+        self.location = "Coimbatore, Tamil Nadu"
+        self.education = "B.Tech Artificial Intelligence and Machine Learning"
+        self.college = "Sri Shakthi Institute of Engineering and Technology"
+        self.year = "3rd Year"
+        self.cgpa = "8.14"
+
+        self.languages = [
+            "Python",
+            "Java",
+            "C",
+            "SQL"
+        ]
+
+        self.ai_stack = [
+            "TensorFlow",
+            "OpenCV",
+            "MediaPipe",
+            "LangChain",
+            "LangGraph",
+            "NumPy",
+            "Pandas",
+            "Matplotlib"
+        ]
+
+        self.projects = [
+            "Voice Assistant",
+            "Multilingual Study Assistant",
+            "RAG Architecture"
+        ]
+
+        self.currently_learning = [
+            "Generative AI",
+            "Large Language Models",
+            "Agentic AI",
+            "MLOps",
+            "Advanced RAG Systems"
+        ]
+
+    def motto(self):
+        return "Build. Learn. Improve. Repeat."
+```
+
+---
+
+## About Me
+
+* Currently working on Artificial Intelligence, Machine Learning, Deep Learning, and Generative AI projects.
+* Exploring Retrieval-Augmented Generation (RAG), Agentic AI, LangChain, and LangGraph.
+* Interested in NLP, Computer Vision, Intelligent Assistants, and AI-powered Applications.
+* Looking to collaborate on Open Source AI projects and innovative software solutions.
+* Always eager to learn new technologies and solve real-world problems using AI.
+* Goal: Become a skilled AI Engineer and contribute to impactful AI solutions.
+
+---
+
+## Connect With Me
+
+<p align="left">
+<a href="mailto:bowsickdharan@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/bowsii">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
+---
+
+# 💻 Tech Stack
+
+### Programming Languages
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge\&logo=c\&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+
+### Artificial Intelligence & Machine Learning
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge\&logo=TensorFlow\&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-%235C3EE8.svg?style=for-the-badge\&logo=opencv\&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-4285F4?style=for-the-badge)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge\&logo=numpy\&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge\&logo=pandas\&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge\&logo=Matplotlib\&logoColor=black)
+
+### Generative AI
+
+![LangChain](https://img.shields.io/badge/LangChain-121D33?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-FF6B6B?style=for-the-badge)
+![LLMs](https://img.shields.io/badge/LLMs-6A5ACD?style=for-the-badge)
+
+### Databases & Tools
+
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge\&logo=mysql\&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge\&logo=github\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
+
+---
+
+## Featured Projects
+
+| Project                      | Technologies                    | Description                                                                                                      |
+| ---------------------------- | ------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
+| Voice Assistant              | Python, NLP, Speech Recognition | AI-powered assistant capable of understanding voice commands and automating tasks.                               |
+| Multilingual Study Assistant | Python, LLMs, NLP               | Educational assistant that helps students learn concepts in multiple languages.                                  |
+| RAG Architecture             | LangChain, LangGraph, Python    | Retrieval-Augmented Generation system that retrieves context-aware information and generates accurate responses. |
+
+---
+
+## GitHub Statistics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=bowsii&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bowsii&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
+
+</div>
+
+---
+
+## GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=bowsii&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10"/>
+</p>
+
+---
+
+## Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bowsii&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"/>
+</p>
+
+---
+
+## Trophy Wall
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=bowsii&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4"/>
+</p>
+
+---
+
+## Education
+
+| Degree                                            | Institution                                         | Year        | CGPA |
+| ------------------------------------------------- | --------------------------------------------------- | ----------- | ---- |
+| B.Tech Artificial Intelligence & Machine Learning | Sri Shakthi Institute of Engineering and Technology | 2024 - 2028 | 8.14 |
+
+---
+
+## Currently Learning
+
+```text
+Generative AI      → Prompt Engineering, LLM Applications
+RAG Systems        → Vector Databases, Retrieval Pipelines
+LangGraph          → Multi-Agent Workflows
+Machine Learning   → Model Optimization
+MLOps              → Model Deployment & Monitoring
+```
+
+---
+
+## 2026 Goals
+
+* Build production-ready AI applications
+* Master Retrieval-Augmented Generation (RAG)
+* Learn Agentic AI architectures
+* Contribute to Open Source
+* Improve Data Structures & Algorithms
+* Secure AI/ML Internship Opportunities
+
+---
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=bowsii&label=Profile%20Views&color=0e75b6&style=flat"/>
+</p>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
+</p>
