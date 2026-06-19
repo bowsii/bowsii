@@ -29,7 +29,7 @@ Location: Coimbatore, Tamil Nadu
 Education: B.Tech Artificial Intelligence & Machine Learning
 Institution: Sri Shakthi Institute of Engineering and Technology
 Year: Third Year
-CGPA: 8.14
+CGPA: 8.16
 
 Focus Areas:
   - Machine Learning
