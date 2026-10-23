@@ -1,173 +1,156 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=250&text=Bowsickdharan&fontSize=55&color=0:8871e5,100:b678c4&stroke=b678c4"/>
-</p>
+<div align="center">
 
-<h3 align="center">
-Artificial Intelligence & Machine Learning Student
-</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:FF6B2C,60:FFC857,100:2EE6A6&text=Bowsickdharan&fontColor=0B0F0E&fontSize=60&fontAlignY=38&desc=Converting%20data%20into%20decisions&descSize=20&descAlignY=60&animation=fadeIn&stroke=0B0F0E&strokeWidth=1" alt="Bowsickdharan banner" width="100%" />
 
-<p align="center">
-Building intelligent systems, exploring Generative AI, and transforming ideas into impactful applications.
-</p>
+<a href="https://github.com/bowsii">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=900&color=FF6B2C&center=true&vCenter=true&width=700&height=50&lines=AI+%26+ML+student+from+Coimbatore;Building+voice-first+and+agent-based+apps;Full-stack+developer+at+Studio+Hexraei;Shipping+things+people+actually+use" alt="Typing intro" />
+</a>
 
-<p align="center">
-  <a href="mailto:bowsickdharan@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/bowsii">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-  </a>
-</p>
+<br/>
+
+![Location](https://img.shields.io/badge/Coimbatore-Tamil_Nadu-FF6B2C?style=for-the-badge&labelColor=0B0F0E)
+![Studio](https://img.shields.io/badge/Studio-Hexraei-2EE6A6?style=for-the-badge&labelColor=0B0F0E)
+![Focus](https://img.shields.io/badge/Focus-GenAI_%7C_RAG_%7C_Agents-FFC857?style=for-the-badge&labelColor=0B0F0E)
+![Profile views](https://komarev.com/ghpvc/?username=bowsii&label=Visitors&color=FF6B2C&style=for-the-badge&labelColor=0B0F0E)
+
+</div>
 
 ---
 
-## Profile
+## About me
 
-```yaml
-Name: Bowsickdharan
-Location: Coimbatore, Tamil Nadu
-Education: B.Tech Artificial Intelligence & Machine Learning
-Institution: Sri Shakthi Institute of Engineering and Technology
-Year: Third Year
-CGPA: 8.16
+I am a third-year B.Tech Artificial Intelligence and Machine Learning student at Sri Shakthi Institute of Engineering and Technology (CGPA 8.16). I build apps around language models, speech and retrieval, and I care most about software that works for people who do not speak "tech".
 
-Focus Areas:
-  - Machine Learning
-  - Generative AI
-  - Retrieval-Augmented Generation
-  - Computer Vision
-  - Natural Language Processing
-
-Current Goal:
-  Building production-ready AI applications
-```
+Right now I am working on a document Q&A app that talks back in several languages, a voice-controlled billing app for small shops, and a shared board where AI agents coordinate with a human.
 
 ---
 
-## Tech Ecosystem
+## 3D contribution view
 
-### Languages
+<div align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" width="100%" />
+</div>
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python,java,c" />
-</p>
-
-### Artificial Intelligence & Data Science
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=tensorflow" />
-</p>
-
-<p align="left">
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-<img src="https://img.shields.io/badge/MediaPipe-4285F4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
-</p>
-
-### Generative AI Stack
-
-<p align="left">
-<img src="https://img.shields.io/badge/LangChain-0FA958?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LangGraph-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/RAG-FF6B6B?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LLMs-6A5ACD?style=for-the-badge"/>
-</p>
-
-### Databases
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
-</p>
-
-```text
-MySQL      → Relational Database Design & Queries
-PostgreSQL → Advanced SQL & Data Management
-MongoDB    → NoSQL Document-Oriented Storage
-```
-
-### Tools
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
+> Generated daily by a GitHub Action. See `.github/workflows/profile-3d.yml`.
 
 ---
 
-## Featured Projects
+## What I am building
 
-### Voice Assistant
+<table>
+<tr>
+<td width="50%" valign="top">
 
-AI-powered voice assistant capable of understanding commands, responding intelligently, and automating tasks using speech-based interaction.
+### Kiyo AI
+Document Q&A in your own language. Upload a file, ask questions, and hear the answer read back in a voice you pick.
 
-**Technology Stack**
+`Python` `RAG` `Multilingual TTS`
 
-`Python` `NLP` `Speech Recognition` `Machine Learning`
+*Private repo, in active development.*
 
----
+</td>
+<td width="50%" valign="top">
 
-### Multilingual Study Assistant
+### KiranaFlow
+An offline billing app for neighbourhood shops. Say the bill out loud in Tamil or Tanglish, and it adds up the items and updates stock. No internet needed.
 
-Educational AI assistant that supports multilingual interaction and helps students learn concepts through intelligent responses.
+`Kotlin` `On-device AI` `Android`
 
-**Technology Stack**
+[View repo](https://github.com/bowsii/Kirana-Flow)
 
-`Python` `LLMs` `NLP` `Generative AI`
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
----
+### Quorum
+A shared board where AI agents and a person coordinate live. Agents post what they are about to do, get warned if someone is already on it, and search each other's findings.
 
-### Retrieval-Augmented Generation (RAG)
+`Python` `Multi-agent` `Semantic search`
 
-Context-aware question-answering system that combines document retrieval and large language models for accurate responses.
+[View repo](https://github.com/bowsii/Quorum-Moss-x-Zero-Latency)
 
-**Technology Stack**
+</td>
+<td width="50%" valign="top">
 
-`LangChain` `LangGraph` `Python` `Vector Search`
+### Biomass Cities 045
+Google Tech for Good 2026 build, aimed at a local community problem.
 
----
+`Python` `Google Cloud` `MIT License`
 
-## Learning Roadmap
+[View repo](https://github.com/bowsii/BIOMASS-CITIES-045)
 
-```mermaid
-mindmap
-  root((AI Journey))
-    Machine Learning
-      Supervised Learning
-      Deep Learning
-    Generative AI
-      LLMs
-      Prompt Engineering
-    RAG Systems
-      LangChain
-      LangGraph
-    Computer Vision
-      OpenCV
-      MediaPipe
-    MLOps
-      Deployment
-      Monitoring
-```
+</td>
+</tr>
+</table>
 
 ---
 
-## Interests
+## Tech I use
 
-* Artificial Intelligence
-* Machine Learning
-* Computer Vision
-* Generative AI
-* Large Language Models
-* Retrieval-Augmented Generation
-* Intelligent Agents
-* Software Development
+<div align="center">
+
+**Languages and backend**
+
+<img src="https://skillicons.dev/icons?i=python,java,kotlin,fastapi,mysql,postgres,mongodb&theme=dark" alt="Languages and backend" />
+
+**Frontend and tools**
+
+<img src="https://skillicons.dev/icons?i=react,ts,html,css,git,github,docker,linux,vscode&theme=dark" alt="Frontend and tools" />
+
+**AI and ML**
+
+`LangChain` · `LangGraph` · `ChromaDB` · `Ollama` · `LLaMA 3.2` · `Vector search` · `Speech recognition` · `NLP` · `Computer vision`
+
+</div>
 
 ---
 
-## Philosophy
+## Other projects
 
-> "Technology becomes meaningful when it transforms ideas into solutions that create real-world impact."
+| Project | What it does | Stack |
+| :-- | :-- | :-- |
+| [RAG](https://github.com/bowsii/RAG) | Chatbot that answers questions from PDFs, running a local LLaMA 3.2 | FastAPI, React, ChromaDB, LangChain, Ollama |
+| [Voice-Assistant](https://github.com/bowsii/Voice-Assistant) | Recognises your voice, listens to commands and acts on them | Python |
+| [AFT](https://github.com/bowsii/AFT) | Fitness tracker that gives feedback on your workout | Python |
+| [CI-CD_learning](https://github.com/bowsii/CI-CD_learning) | A hands-on walkthrough of how a CI/CD pipeline works | Python |
+| [Habit-Tracker-Console](https://github.com/bowsii/Habit-Tracker-Console) | Console habit tracker built to practise OOP | Python |
+| [leetcode](https://github.com/bowsii/leetcode) | My problem-solving log | Python |
+| [Text-to-Speech](https://github.com/bowsii/Text-to-Speech) | Text to speech experiments | Python |
+| [OOPS](https://github.com/bowsii/OOPS) | Notes and code on core OOP concepts | Python |
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:8871e5,100:b678c4"/>
-</p>
+---
+
+## GitHub stats
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=bowsii&show_icons=true&hide_border=true&bg_color=0B0F0E&title_color=FF6B2C&text_color=E8E6E1&icon_color=2EE6A6&ring_color=FFC857&count_private=true" alt="GitHub stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bowsii&layout=compact&hide_border=true&bg_color=0B0F0E&title_color=FF6B2C&text_color=E8E6E1" alt="Top languages" />
+
+<img src="https://streak-stats.demolab.com?user=bowsii&hide_border=true&background=0B0F0E&stroke=2A2F2D&ring=FF6B2C&fire=FFC857&currStreakNum=E8E6E1&sideNums=E8E6E1&currStreakLabel=2EE6A6&sideLabels=E8E6E1&dates=8A8F8C" alt="Streak stats" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=bowsii&theme=gruvbox&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" alt="Trophies" />
+
+</div>
+
+---
+
+## Where I am heading
+
+- Building production-ready AI apps, not just demos
+- Getting better at retrieval, agents and computer vision
+- Making voice and local-language support a normal part of every app I build
+
+---
+
+## Say hello
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-bowsii-0B0F0E?style=for-the-badge&logo=github&logoColor=FF6B2C)](https://github.com/bowsii)
+[![Studio Hexraei](https://img.shields.io/badge/Studio-Hexraei-0B0F0E?style=for-the-badge&logoColor=2EE6A6&labelColor=0B0F0E&color=2EE6A6)](https://github.com/studio-hexraei)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:2EE6A6,50:FFC857,100:FF6B2C&section=footer" width="100%" alt="footer" />
+
+</div>
